@@ -1,0 +1,11 @@
+{
+    "join": "συμεττοχι",
+    "nest": {
+      "split": "διαρεσει",
+      "another_nest": {
+        "split": "διαιρεσει"
+      },
+    "list": ["λιστα", "τιμη", {"JSON": {"Embedded": "συμβολιο"}}]
+    },
+    "files": "{count, plural, one {αρχειο} other {αρχεια}}"
+}

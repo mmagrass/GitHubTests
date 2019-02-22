@@ -1,0 +1,11 @@
+{
+    "join": "asta la vista",
+    "nest": {
+      "split": "vaya con dios",
+      "another_nest": {
+        "split": "salida"
+      },
+    "list": ["naranja", "ola", {"JSON": {"Embedded": "buenos dias"}}]
+    },
+    "files": "{count, plural, one {{count} por favor} other {{count} por favor}}"
+}

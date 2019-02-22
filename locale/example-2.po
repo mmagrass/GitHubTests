@@ -19,7 +19,7 @@ msgstr ""
 
 #: forms.py:189
 #, python-format
-msgid ""
+msgid "hello"
 msgstr ""
 
 #. translators: %s for product quantity, e.g. 1 product and 2 products
